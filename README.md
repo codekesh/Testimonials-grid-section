@@ -62,7 +62,7 @@ Use this section to outline areas that I want to continue focusing on in future 
 
 ## Author
 
-- Frontend Mentor - [@@codekesh](https://www.frontendmentor.io/profile/codekesh)
+- Frontend Mentor - [@codekesh](https://www.frontendmentor.io/profile/codekesh)
 - Twitter - [@tulsyan_keshav](https://twitter.com/tulsyan_keshav)
 - Github - [@codekesh](https://github.com/codekesh)
 
